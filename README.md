@@ -10,7 +10,7 @@ if marks>= 90:
 elif marks>=80:
     print('CONGRATULATIONS YOU GOT B GRADE ')
 elif marks>=70:
-    print('YOU CAN IMPROVE YOU GOT D GRADE')
+    print('YOU CAN IMPROVE YOU GOT C GRADE')
 elif marks>=60:
     print('YOU NEED TO IMPROVE YOU GOT D GRADE') 
 elif marks>100:
